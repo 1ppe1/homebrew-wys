@@ -5,15 +5,15 @@ class Wys < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/1ppe1/wys/releases/download/v0.1.0/wys-0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "05a2a65a21d11dfca278929912cbea140d8faa5a614a245263c7a81bc3aa0dc7"
+      url "https://github.com/1ppe1/wys/releases/download/v0.1.1/wys-0.1.1-aarch64-apple-darwin.tar.gz"
+      sha256 "6462cde4fe0febba95bc42e266b82f95a149d2efa55bbae56dc49d44414bb362"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/1ppe1/wys/releases/download/v0.1.0/wys-0.1.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "c6e4b78a5f164e2cd060e45253dae0ff93e229756c4df725345e47333444e4c0"
+      url "https://github.com/1ppe1/wys/releases/download/v0.1.1/wys-0.1.1-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "41bd6d270dd2158b22ad491a2947fde04940c05492900caf08f22592ff9fae08"
     end
   end
 
